@@ -1,6 +1,8 @@
 # learnchess-googletrend-animation
 Animate the Google Trend Index for "Learn Chess" Overtime
 
+![alt text](https://imgur.com/GSV0DGV)
+
 Reason: Intersted in visualizating the immense impact that The Queen's Gambit as had on America's interest in chess. I expanded my time range to illustrate a baseline along with examining the impact of the COVID impact. 
 
 Useful Resources:
